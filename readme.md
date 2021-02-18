@@ -35,10 +35,6 @@ php artisan migrate --seed
 # Atualizar dependências
 npm install
 
-# Rodar em ambiente local [localhost]
-npm run dev
-```
-
 ## Executando o Projeto
 
 ``` bash
