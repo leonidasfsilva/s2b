@@ -34,7 +34,7 @@ php artisan migrate --seed
 ``` bash
 # Atualizar dependências
 npm install
-
+```
 ## Executando o Projeto
 
 ``` bash
