@@ -604,7 +604,7 @@
                 "symfony/http-foundation": "^4.3.4",
                 "symfony/http-kernel": "^4.3.4",
                 "symfony/polyfill-php73": "^1.17",
-                "symfony/process": "^4.3.4",
+                "symfony/process": "^5.4.46",
                 "symfony/routing": "^4.3.4",
                 "symfony/var-dumper": "^4.3.4",
                 "tijsverkoyen/css-to-inline-styles": "^2.2.1",
